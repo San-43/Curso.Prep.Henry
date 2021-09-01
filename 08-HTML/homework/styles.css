@@ -1,0 +1,27 @@
+/* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }*/
+#título{
+    color: rgba(23, 36, 153, 0.74);
+}
+.divClass {
+    font-style: italic;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(27, 25, 25);
+    padding: 50px;
+    border: 0.5rem outset navy;
+    outline: 0.5rem solid khaki;
+    box-shadow: 0 0 0 2rem skyblue;
+    border-radius: 12px;
+    margin: 2rem;
+    outline-offset: 0.5rem;
+}
